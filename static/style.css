@@ -1,0 +1,174 @@
+body {
+  position: relative;
+  width: 1512px;
+  height: 982px;
+  background: #000000;
+}
+h4 {
+  color: white;
+}
+
+.hi {
+  position: absolute;
+  width: 72px;
+  height: 29px;
+  left: 628px;
+  top: 379px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+.nama {
+  position: absolute;
+  width: 689px;
+  height: 78px;
+  left: 628px;
+  top: 419px;
+
+  font-family: "Montserrat";
+  font-style: bold;
+  line-height: 78px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.about {
+  position: absolute;
+  width: 654px;
+  height: 96px;
+  left: 628px;
+  top: 508px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+
+  color: #ffffff;
+}
+.foto {
+  position: absolute;
+  width: 530px;
+  height: 1109px;
+  left: -15px;
+  top: 50px;
+}
+.garis {
+  position: absolute;
+  width: 130px;
+  height: 10px;
+  left: 111px;
+  top: 1200px;
+
+  background: #d9d9d9;
+  border-radius: 5px;
+}
+.Work {
+  position: absolute;
+  width: 1295px;
+  height: 393px;
+  left: 0px;
+  top: 200px;
+}
+.work1 {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  left: 108px;
+  top: 1129px;
+  border-radius: 17px;
+}
+.work2 {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  left: 559px;
+  top: 1129px;
+
+  border-radius: 17px;
+}
+.work3 {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  left: 1010px;
+  top: 1129px;
+
+  border-radius: 17px;
+}
+.profile {
+  font-family: "Montserrat";
+}
+.frame {
+  position: absolute;
+  width: 1512px;
+  height: 982px;
+  left: 0px;
+  top: 1694px;
+}
+.teks {
+  position: absolute;
+  width: 363px;
+  height: 54px;
+  left: 659px;
+  top: 550px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 44px;
+
+  color: #ffffff;
+}
+.kiri {
+  position: absolute;
+  width: 554px;
+  height: 982px;
+  left: 0px;
+  top: 0px;
+}
+.kirig {
+  position: absolute;
+  width: 554px;
+  height: 982px;
+  left: 0px;
+  top: 130px;
+}
+.namakiri {
+  position: absolute;
+  width: 216px;
+  height: 24px;
+  left: 174px;
+  top: 640px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+.deskiri {
+  position: absolute;
+  width: 438px;
+  height: 100px;
+  left: 58px;
+  top: 678px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #ffffff;
+}
